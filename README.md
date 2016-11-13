@@ -1,2 +1,2 @@
 # SpaceNoir
-Helo word
+Hello word
